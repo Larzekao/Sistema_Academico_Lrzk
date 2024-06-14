@@ -1,0 +1,10 @@
+
+1. Crear base de datos "bd_school_tutorial"
+2. Ejecutar la escritp  "BD_Actualizado.sql" de la base de datos
+
+2.1. total 34 tabals mas 6 de contabilidad = 40
+
+3. Copia el el proyecto a suevidor (xamp->htdocs ,laragon->www)
+4. ingras al navegador "localhost/nombredelproyecto"
+
+5. Credenciales:usuario: daniel passsword: admin
